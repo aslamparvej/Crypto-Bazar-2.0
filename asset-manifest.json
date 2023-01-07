@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Crypto-Bazar-2.0/static/css/main.85d51e4d.css",
+    "main.js": "/Crypto-Bazar-2.0/static/js/main.41456544.js",
+    "static/media/icon.png": "/Crypto-Bazar-2.0/static/media/icon.1548aced3f0605895bac.png",
+    "index.html": "/Crypto-Bazar-2.0/index.html",
+    "main.85d51e4d.css.map": "/Crypto-Bazar-2.0/static/css/main.85d51e4d.css.map",
+    "main.41456544.js.map": "/Crypto-Bazar-2.0/static/js/main.41456544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d51e4d.css",
+    "static/js/main.41456544.js"
+  ]
+}
